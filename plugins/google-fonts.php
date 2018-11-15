@@ -1,3 +1,4 @@
+# Sample Plugin
 <?php
 /* plugin to activate google fonts */
 function rmccc_add_fonts(){
